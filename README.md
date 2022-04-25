@@ -10,9 +10,13 @@ Success will be pegged on the ability to create a model that has high accuracy o
 Algorithms Used
 
 -multilinear regression
+
 -ridge regression
+
 -lasso regression
+
 -quantile regression
+
 -elastic net regression
 
 Experimental Design

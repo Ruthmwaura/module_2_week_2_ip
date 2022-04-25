@@ -1,13 +1,13 @@
 # module_2_week_2_ip
-analytical question
+**analytical question**
 
 A prediction of the house prices upon being provided with the predictor variables. 
 
-Defining the Metric for Success
+**Defining the Metric for Success**
 
 Success will be pegged on the ability to create a model that has high accuracy on predicting the house prices upon being provided with the predictor variables.
 
-Algorithms Used
+**Algorithms Used**
 
 -multilinear regression
 
@@ -19,10 +19,10 @@ Algorithms Used
 
 -elastic net regression
 
-Experimental Design
+**Experimental Design**
 
 CRISP Methodology Exploratory Data Analysis
 
-Technologies Used
+**Technologies Used**
 
 Python
